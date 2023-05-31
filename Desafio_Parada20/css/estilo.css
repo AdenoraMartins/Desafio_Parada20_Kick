@@ -1,0 +1,35 @@
+body{
+    background-image: url("../img/fundo_matematica.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box{
+    width: 600px;
+    height: 700px;
+    margin: auto;
+    background-color: #659878;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.box h3{
+    padding: 10px;
+    font-size: 20px;
+}
+
+input{
+    text-align: center;
+    padding: 10px;
+}
+button{
+    padding: 15px;
+    margin-top: 20px;
+}
+#resultado{
+    color:#080808;
+    text-align: center;
+    font-size: 30px;
+    margin-top: 30px;
+    padding: 15px;
+}
